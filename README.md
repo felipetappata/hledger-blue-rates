@@ -49,7 +49,7 @@ It assumes that amounts denominated in dollars are in the `USD` currency and amo
 ## Example Output
 
 ```
-; Blue Dollar rates retrieved by hledger-dollar
+; Blue Dollar rates retrieved by hledger-blue-rates
 ; Retrieved on: 2024-12-07 07:55:21
 ; Source: https://api.bluelytics.com.ar/v2/evolution.json
 ; Date range: 2007-01-01 to 2024-12-07
